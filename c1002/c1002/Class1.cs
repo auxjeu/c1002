@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace c1002
 {
-    class Program
+    class Class1
     {
-        static void Main(string[] args)
-        {
-            //b1001
-        }
     }
 }
